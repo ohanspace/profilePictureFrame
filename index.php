@@ -22,8 +22,8 @@
           <img src="frames/frame-0.png" id="fg" data-design="0" />
         </div>
         <p>
-          <button id="download" disabled>Download Profile Picture</button>
           <button id="fb-set-pic" disabled>Set As <b>Facebook</b> Profile Picture</button>
+          <button id="download" disabled>Download Profile Picture</button>
         </p>
         <h2>Login</h2>
         <div class="fb-login-button" data-scope="public_profile,publish_actions" onlogin="checkLoginState();" data-max-rows="5" data-size="large" data-show-faces="false" data-auto-logout-link="false"></div>
