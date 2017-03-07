@@ -18,7 +18,7 @@
           <div id="crop-area">
             <img src="images/default-image.jpg" id="profile-pic" />
           </div>
-          <img src="frames/frame-1.png" id="fg" data-design="0" />
+          <img src="frames/frame-0.png" id="fg" data-design="0" />
         </div>
         <p>
           <button id="download" disabled>Download Profile Picture</button>
@@ -33,8 +33,8 @@
         <h2>Design</h2>
         <div id="designs">
           <img class="design active" src="frames/frame-0.png" data-design="0" />
-          <img class="design" src="frames/frame-1.png" data-design="1" />
-          <img class="design" src="frames/frame-2.png" data-design="2" />
+          <!-- <img class="design" src="frames/frame-1.png" data-design="1" />
+          <img class="design" src="frames/frame-2.png" data-design="2" /> -->
         </div>
         <?php
         require_once __DIR__ . "/footer.php";
