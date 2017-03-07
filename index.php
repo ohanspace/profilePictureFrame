@@ -2,6 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
   <head>
     <title>Support BADHAN Web App</title>
+    <link rel="shortcut icon" href="https://badhan.org/img/favicon.ico">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="css/croppie.css" rel="stylesheet" async="async" />
     <link href="css/style.css" rel="stylesheet" async="async" />
