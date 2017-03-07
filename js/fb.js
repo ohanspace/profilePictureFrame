@@ -80,7 +80,7 @@ function loggedIn() {
         "POST",
         {
           "url": "https://badhan.org/profilePictureFrame/" + r,
-          "caption": "Support Badhan Web App!"
+          "caption": "Register to SAVE LIFE: https://badhan.org/register | SUPPORT BADHAN https://badhan.org/profilePictureFrame"
         },
         function (response) {
           if (response && !response.error) {

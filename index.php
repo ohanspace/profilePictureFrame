@@ -13,8 +13,7 @@
   <body>
     <div id="wrapper">
       <div id="content">
-        <h1>BADHAN</h1>
-        <p>Support Voluntary Blood Donation</p>
+        <h1><a href="https://badhan.org"><img src="images/badhan-bangla.png"></a></h1>
         <div id="preview">
           <div id="crop-area">
             <img src="images/default-image.jpg" id="profile-pic" />
