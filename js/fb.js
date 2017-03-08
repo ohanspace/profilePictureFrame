@@ -79,8 +79,7 @@ function loggedIn() {
         "/me/photos",
         "POST",
         {
-          "url": "https://badhan.org/profilePictureFrame/" + r,
-          "caption": "Register to SAVE LIFE: https://badhan.org/register | SUPPORT BADHAN, Change your profile picture: https://badhan.org/profilePictureFrame"
+          "url": "https://badhan.org/profilePictureFrame/" + r
         },
         function (response) {
           if (response && !response.error) {
